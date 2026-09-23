@@ -19,4 +19,6 @@ GitHub Pages publishes `main` from the repository root. Changes pushed to `main`
 
 Project summaries are based on the public repositories and Cade's resume. The featured application diagram is a conceptual overview, not an application screenshot. Team projects explicitly describe Cade's contribution. The original photo is displayed with CSS sizing and cropping, without retouching.
 
-The projects are linked to source repositories; live demos can be added when their URLs are confirmed. Employer source code is not included. The `cs` repository contains coursework screenshots and remains accessible through the all-repositories link.
+Public projects link to their source repositories. The live 4th & 4 Fantasy and Cocoa Gems STL sites link to their published websites. Employer source code is not included. The `cs` repository contains coursework screenshots and remains accessible through the all-repositories link.
+
+4th & 4 Fantasy is described using details provided by Cade; its source stays private. Simplicity Software and The Best Air Conditioning are mentioned only as WordPress-to-static-HTML conversions. No private repository links or source files are published.
